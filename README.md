@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme esta noche en tu piel
+> Tú eres mi dulce pecado, mi nivel
+> En la disco brillando, te quiero llevar
+> Contigo la noche yo quiero quemar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
