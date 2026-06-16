@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce pecado
+
+This log tracks the cryptographic history and versioning for the song **Dulce pecado** (dulce-pecado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:41:22.137361 | `v1` | `9104e0cc2ecbc74a3e6e76cd09f7fc928ee6b6cc34fc5436e52ee4a41cee9936` | `d3cb6698d3d2ba9130a5d2e6e7aba39f1891ccaa8b299d6f495cc695bc769f99` | `2026-06-16_dulce-pecado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
